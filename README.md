@@ -1,4 +1,4 @@
 # ApnaCollege-Demo
 My first repository!
 <br>
-Author-FahadNaveed
+Author-FahadNaveed (Apna College)
